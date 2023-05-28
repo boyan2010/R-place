@@ -1,4 +1,4 @@
-let canvas,gol=4;
+let canvas,gol=20;
 function make_canvas(n) {
     canvas = [];
     for(let i = 0; i < n; i++) {
